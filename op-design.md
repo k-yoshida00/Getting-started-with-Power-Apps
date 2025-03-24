@@ -25,4 +25,4 @@
 ![Image](image/StartPage/08.png)
 
 ---
-[06-まとめ](./06-summary.md) ⬅️ | [🏠](./README) 
+[06-まとめ](./06-summary.md) ⬅️ | [🏠](./README.md) 
