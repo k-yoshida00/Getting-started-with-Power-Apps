@@ -7,7 +7,7 @@
 ![Image](image/AccessApp/02.png)
 
 5. しばらく待つと、アプリの編集画面に移動します
-![Image](image/01-03.png)
+![Image](image/AccessApp/04.png)
 
 > [!NOTE]
 > ウェルカム画面はスキップします
