@@ -28,7 +28,7 @@
 BrowseGallery1.Selected
 ```
 ![Image](image/Edit/06.png)
-[!Note]
+> [!Note]
 > BrowseGallery1は、リスト画面で作成したギャラリーの名前です。<br>
 > 上手く値が反映されない場合は、各部の名称に合わせて値を変更してください。<br>
 

@@ -11,7 +11,7 @@
 ## トップページに画像を追加する
 1. 事前に、トップページで使いたい画像を用意しておきます
 
-[!Note]
+> [!Note]
 > 対応している形式の確認は、こちらを参照してください
 > https://learn.microsoft.com/ja-jp/power-apps/maker/canvas-apps/add-images-pictures-audio-video
 
