@@ -30,7 +30,7 @@ Power Platformには、以下の製品が含まれています:
 クラウドのデータと連携したアプリを作成するサービスです。
 
 アプリはノーコード・ローコードで作成できます。
-![Test Image 1](image/01.png)
+![Test Image 1](image/Edit/Last.png)
 
 # Power Appsのチュートリアル
 次のページから、実際のPower Appsの使い方を学びます。
