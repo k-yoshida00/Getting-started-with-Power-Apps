@@ -15,9 +15,9 @@
 > 対応している形式の確認は、こちらを参照してください
 > https://learn.microsoft.com/ja-jp/power-apps/maker/canvas-apps/add-images-pictures-audio-video
 
-2. 左のサイドバーから「・・・」>「メディア」をクリックします
+2. 左のサイドバーから「・・・」>「メディア」をクリックします<br>
 ![Image](image/StartPage/06.png)
-3. 「メディアの追加」> 「アップロード」をクリックします
+3. 「メディアの追加」> 「アップロード」をクリックします<br>
 ![Image](image/StartPage/07.png)
 4. 画像を選択してアップロードします
 5. アップロードした画像を画面にドラッグし、配置します
