@@ -3,7 +3,7 @@
 
 ## ページに移動する
 1. 画面左のサイドバーから「ツリー ビュー」を開き、```Screen1```を選択します
-![Image](image/StartPage/01.png)
+<img src="image/StartPage/01.png" width="60%">
 2. 何も追加されていない画面に移動します
 ![Image](image/StartPage/02.png)
 
@@ -13,11 +13,11 @@
 ```
 Screen1
 ```
-![Image](image/StartPage/00.png)
+<img src="image/StartPage/00.png" width="80%">
 
 ## テキストを追加する
 1. 画面左のサイドバーから「挿入」を開きます
-![Image](image/StartPage/03.png)
+<img src="image/StartPage/03.png" width="60%">
 2. 「テキストラベル」を画面にドラッグし、配置します
 3. ラベルをダブルクリックして、テキストを編集します。今回はアプリ（リスト）のタイトルを入力します
 ![Image](image/StartPage/04.png)

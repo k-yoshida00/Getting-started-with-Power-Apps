@@ -11,17 +11,17 @@
 2. 「データの追加」をクリックします
 3. SharePointを選択します（検索するのがおすすめ）
 ![Image](image/List/02.png)
-4. SharePointをクリックします
-![Image](image/List/03.png)
+4. SharePointをクリックします<br>
+<img src="image/List/03.png" width="60%">
 > [!TIP]
 > 次回以降、2~3の手順は省略できます
 5. 事前に取得したリストのリンクを入力し、「接続」をクリックします
 ![Image](image/List/04.png)
-6. リストを選択し、「接続」をクリックします
-![Image](image/List/05.png)
+6. リストを選択し、「接続」をクリックします<br>
+<img src="image/List/05.png" width="60%">
 7. フォームをクリックし、選択します。
-8. 先ほど接続したデータソースをクリックします
-![Image](image/List/06.png)
+8. 先ほど接続したデータソースをクリックします<br>
+<img src="image/List/06.png" width="60%">
 9. リストに接続したデータソースが反映されます
 ![Image](image/List/07.png)
 

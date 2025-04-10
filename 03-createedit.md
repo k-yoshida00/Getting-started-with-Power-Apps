@@ -11,11 +11,11 @@
 > ![Image](image/Edit/02.png)
 
 ## データソースを設定する
-1. 中央の「データに接続してください」をクリックします
-![Image](image/Edit/03.png)
+1. 中央の「データに接続してください」をクリックします<br>
+<img src="image/Edit/03.png" width="60%">
 2. 先ほどと同様に、SharePointを選択します
 3. リストの項目が、フォームに反映されます
-![Image](image/Edit/04.png)
+<img src="image/Edit/04.png" width="60%">
 
 ## 選択した項目を反映させる
 このページは、「02-リスト画面を作成する」で選択した項目を編集する画面です。<br>

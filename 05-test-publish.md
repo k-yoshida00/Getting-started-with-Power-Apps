@@ -28,8 +28,8 @@
 テストが完了したら、実際に運用するために公開します。
 1. 右上の「公開」ボタンをクリックします
 ![Image](./image/TestPublish/04.png)
-2. 「このバージョンの公開」をクリックします
-![Image](./image/TestPublish/05.png)
+2. 「このバージョンの公開」をクリックします<br>
+<img src="image/TestPublish/05.png" width="70%">
 > [!IMPORTANT]
 > この時点では、作成者以外のユーザーはアプリを使用できません
 
@@ -39,8 +39,8 @@
 3. 「・・・」> 「共有」をクリックします
 ![Image](./image/TestPublish/06.png)
 4. ドキュメント等と同様に共有を行うことができます。<br>
-ユーザーを指定してメール通知ができるほか、URLをコピーして共有することもできます。
-![Image](./image/TestPublish/07.png)
+ユーザーを指定してメール通知ができるほか、URLをコピーして共有することもできます。<br>
+<img src="image/TestPublish/07.png" width="70%">
 
 これで、一連の作業は完了です。お疲れ様でした！
 
